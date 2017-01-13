@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "iIUYZyoanCQQTUaWsu8b+iOSPt4=",
+			"path": "github.com/gorilla/context",
+			"revision": "aed02d124ae4a0e94fea4541c8effd05bf0c8296",
+			"revisionTime": "2016-05-25T20:33:19Z"
+		},
+		{
+			"checksumSHA1": "urMd7A9QPAJYY0GZJL9qBhlUmD8=",
+			"path": "github.com/gorilla/mux",
+			"revision": "757bef944d0f21880861c2dd9c871ca543023cba",
+			"revisionTime": "2016-09-20T23:08:13Z"
+		},
+		{
+			"checksumSHA1": "JnN7V2ff27U0k2Xuc1RJSa520QQ=",
+			"path": "github.com/lib/pq",
+			"revision": "8df6253d1317616f36b0c3740eb30c239a7372cb",
+			"revisionTime": "2017-01-03T19:20:09Z"
+		},
+		{
+			"checksumSHA1": "xppHi82MLqVx1eyQmbhTesAEjx8=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "8df6253d1317616f36b0c3740eb30c239a7372cb",
+			"revisionTime": "2017-01-03T19:20:09Z"
+		}
+	],
+	"rootPath": "github.com/edfward/quote"
+}
